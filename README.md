@@ -11,3 +11,5 @@ Current API (https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)
 
 Refer to the Wikimedia Terms of use to see what you can and cannot do with this data :
 https://wikimediafoundation.org/wiki/Terms_of_Use/en
+
+In the CSV file you will fine a timestamp row along with the mobile, desktop and cumulative views for that month from the API that records that time period (There is a period of overlap).
