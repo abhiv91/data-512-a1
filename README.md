@@ -1,6 +1,6 @@
 # data-512-a1
 
-#Goal
+# Goal
 This project graphs the page views of wikipedia from desktop and mobile sources.
 
 Please note that there are significant dips because Wikipedia stated discriminating against crawlers when reporting usage stats. 
@@ -13,3 +13,5 @@ Refer to the Wikimedia Terms of use to see what you can and cannot do with this 
 https://wikimediafoundation.org/wiki/Terms_of_Use/en
 
 In the CSV file you will fine a timestamp row along with the mobile, desktop and cumulative views for that month from the API that records that time period (There is a period of overlap).
+
+You can see the data used and the graph on this spread sheet. The CSV file also has data. https://docs.google.com/spreadsheets/d/1Wyt_2EV7ynPGGRwHHz2TigSEPCCkAo_Rp5s5xWlX5_g/edit#gid=0
